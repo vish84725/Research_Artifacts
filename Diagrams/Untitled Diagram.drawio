@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T17:57:11.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RN9Q0VJ9Q-_EvHF_Le0U" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T17:13:13.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZIbIEy5xux-U4YYq0Ki8" version="17.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2591" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1542" value="Data Extraction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="1030" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1543" value="Techniques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="254" width="120" height="80" as="geometry" />
+          <mxGeometry x="1010" y="254" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1545" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1542" target="kBjCQtuUGjo8xMoTbUDO-1543">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,6 +245,72 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="480" as="sourcePoint" />
             <mxPoint x="820" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1600" value="Techniques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1602" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1590" target="kBjCQtuUGjo8xMoTbUDO-1600">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="780" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1604" value="Hourglass" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1605" value="Microsoft Kinect to get realtime joints" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1607" value="Multiple Convolution Networks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1610" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1600" target="kBjCQtuUGjo8xMoTbUDO-1607">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="780" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1612" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1600" target="kBjCQtuUGjo8xMoTbUDO-1605">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="780" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1613" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1600" target="kBjCQtuUGjo8xMoTbUDO-1604">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="780" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1614" value="Smart Gym Trainer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1615" value="Evoluation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1616" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1614" target="kBjCQtuUGjo8xMoTbUDO-1615">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="275" as="sourcePoint" />
+            <mxPoint x="-350" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1617" value="Human Pose Estimation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1618" value="Human Pose Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1619" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1615" target="kBjCQtuUGjo8xMoTbUDO-1617">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1620" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1615" target="kBjCQtuUGjo8xMoTbUDO-1618">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
