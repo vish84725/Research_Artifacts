@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:52:16.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0QQPMWb6QuTeECQpL9wt" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T07:52:48.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="-glgnO2sTDoT6wdS3KfQ" version="18.2.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3760" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1546" value="Human Pose Estimation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1546" value="Human Pose Estimation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="260" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1547" value="Techniques&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1577" value="CNN" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1578" value="GCNN" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1578" value="GCNN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-120" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1579" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="kBjCQtuUGjo8xMoTbUDO-1577" target="kBjCQtuUGjo8xMoTbUDO-1567" edge="1">
@@ -271,7 +271,7 @@
             <mxPoint x="-1310" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1614" value="Smart Gym Trainer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kBjCQtuUGjo8xMoTbUDO-1614" value="Smart Gym Trainer" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-550" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kBjCQtuUGjo8xMoTbUDO-1615" value="Evoluation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
