@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T06:09:43.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.2.0" etag="tCKgjxVq3Rdi6rrABnch" type="github"><diagram id="tGnPu3tWP7bb63ryNGWf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-04T08:19:00.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="4TvZAHoTWXTNdXf_0GiH" version="18.2.0" type="github">
+  <diagram id="tGnPu3tWP7bb63ryNGWf" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="285" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-2" value="&lt;b&gt;RealGym - Realtime Workout Helper&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/exercise-dumbbells-gym-fitness-diet-128.png" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="340" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-3" value="Human Pose Estimator using GCN" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/yoga-23/24/yoga-11-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-4" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-234;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-9" value="Product Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/425_Engineer_headphones_listen_meloman_music_sound_design_producstion-128.png;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-11" value="Consumed By" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-13" value="Develops the system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-14" value="Data science Engineers/ Researcher/ Developers&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/484_data_information_mobile_research_science_Data_Science_Fabrication_Lab-128.png;fontSize=14;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="710" y="20" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-210;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="596.65" y="97.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Uses the HPE to develop models for other domains&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="563.3000000000001" y="69" width="163.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-17" value="Supervisor" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/74_speaker_Person_presentation_professional_pudlic_seminar_speech-128.png;fontSize=12;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-30;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Supervices&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="106.65000000000009" y="178" width="163.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-20" value="Experts/ Gym trainers&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_Pokemon_Trainer_Boy-128.png;fontSize=12;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="30" y="39.5" width="70.5" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="113.32" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-23" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Give requirements/ advices&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="86.65000000000009" y="59.75" width="163.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-24" value="End Users" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;fontSize=12;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="700" y="354" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="389" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Benefited&amp;nbsp;from the system&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="536.6500000000001" y="370" width="163.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-27" value="Sportsman" style="shape=mxgraph.signs.sports.canoe_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="103" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0.301;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x9WX-iWZ6ky1CXrmUBRQ-24" target="x9WX-iWZ6ky1CXrmUBRQ-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="270" as="sourcePoint" />
+            <mxPoint x="640" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-30" value="General public" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;fontSize=12;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.745;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x9WX-iWZ6ky1CXrmUBRQ-24" target="x9WX-iWZ6ky1CXrmUBRQ-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="370.41183088028515" as="sourcePoint" />
+            <mxPoint x="851.0030000000002" y="321.009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-32" value="Health purposes such as physio therapy&lt;br&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ServiceHealth.svg;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="878" y="528" width="50" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1" source="x9WX-iWZ6ky1CXrmUBRQ-24" target="x9WX-iWZ6ky1CXrmUBRQ-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="370" as="sourcePoint" />
+            <mxPoint x="640" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-34" value="Investor" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/74-128.png;fontSize=12;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="690" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-36" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Invests&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="356.6500000000001" y="590" width="163.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1" source="x9WX-iWZ6ky1CXrmUBRQ-9" target="x9WX-iWZ6ky1CXrmUBRQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="370" as="sourcePoint" />
+            <mxPoint x="640" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-38" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Develops a novel method for human pose estimation using GCN&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="395" y="80" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-40" value="Competitors&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/585_Box_boxing_competition_fight_gloves_game_gaming_genres_programing-128.png;fontSize=12;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-41" value="Tries to develop similar systems" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=70;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9WX-iWZ6ky1CXrmUBRQ-43" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-45;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="145" y="535" width="105" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
