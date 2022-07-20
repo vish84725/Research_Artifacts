@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T20:08:22.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="HzNdIefqjhIZ0TYAINr_" type="github"><diagram id="gJB7xwLzOgrnDnG2eZnx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T20:09:23.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2U57qjxv3IAf9sWtdeHY" version="20.1.1" type="github">
+  <diagram id="gJB7xwLzOgrnDnG2eZnx" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="710" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-2" value="&lt;b&gt;Smart Gym Proof of Concept for gym users&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
