@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T20:09:23.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2U57qjxv3IAf9sWtdeHY" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T20:20:22.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zKmn8FN69MY_wKPjMIKG" version="20.1.1" type="github">
   <diagram id="gJB7xwLzOgrnDnG2eZnx" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,75 @@
         <mxCell id="LIVF3g4YJ_-a8r3i8qHK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="710" height="410" as="geometry" />
         </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-18" value="Display accuracy and exploited data of analysis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-2" target="LIVF3g4YJ_-a8r3i8qHK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="400" />
+              <mxPoint x="680" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-19" value="Output classified exercise type" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-2" target="LIVF3g4YJ_-a8r3i8qHK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="380" />
+              <mxPoint x="130" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-21" value="Output critiques user has engaged in" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-2" target="LIVF3g4YJ_-a8r3i8qHK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="410" />
+              <mxPoint x="100" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-22" value="Output recommendations to achieve higher productivity" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-2" target="LIVF3g4YJ_-a8r3i8qHK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="460" />
+              <mxPoint x="70" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LIVF3g4YJ_-a8r3i8qHK-2" value="&lt;b&gt;Smart Gym Proof of Concept for gym users&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-17" value="Input graph data structures for classiifications" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-3" target="LIVF3g4YJ_-a8r3i8qHK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="260" />
+              <mxPoint x="385" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-3" value="&lt;b&gt;Data Science/CV Engineers&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-14" value="Perform exercise" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-4" target="LIVF3g4YJ_-a8r3i8qHK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="280" />
+              <mxPoint x="346" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.055;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LIVF3g4YJ_-a8r3i8qHK-4" target="LIVF3g4YJ_-a8r3i8qHK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="290" />
+              <mxPoint x="336" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-16" value="Input data feeds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LIVF3g4YJ_-a8r3i8qHK-15">
+          <mxGeometry x="0.146" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIVF3g4YJ_-a8r3i8qHK-4" value="&lt;b&gt;Users&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
