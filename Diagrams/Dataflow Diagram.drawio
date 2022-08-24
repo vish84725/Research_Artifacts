@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T11:22:26.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="kXf7aiFOrPzKbuZGIVzK" type="github"><diagram id="8N1XIdsjAgXzzv-fAlCM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T17:44:44.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TJ46G1Uk6LDicj_2Sq87" version="20.1.3" type="github">
+  <diagram id="8N1XIdsjAgXzzv-fAlCM" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-11" value="Upload Video" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOKqe2SG75QS7OcgNgVC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="40" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" as="sourcePoint" />
+            <mxPoint x="50" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" as="sourcePoint" />
+            <mxPoint x="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="40" as="sourcePoint" />
+            <mxPoint x="50" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-8" value="D3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-9" value="Video stream from user" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FOKqe2SG75QS7OcgNgVC-10">
+          <mxGeometry x="50" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="580" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-12" value="Load Video" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="FOKqe2SG75QS7OcgNgVC-15">
+          <mxGeometry width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="FOKqe2SG75QS7OcgNgVC-15" source="FOKqe2SG75QS7OcgNgVC-12" target="FOKqe2SG75QS7OcgNgVC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="-60" as="sourcePoint" />
+            <mxPoint x="75" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-14" value="&lt;b&gt;1.4&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FOKqe2SG75QS7OcgNgVC-15">
+          <mxGeometry x="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKqe2SG75QS7OcgNgVC-16" value="Streamed video information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOKqe2SG75QS7OcgNgVC-9" target="FOKqe2SG75QS7OcgNgVC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
