@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T07:29:36.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="-EJhvsLGF_RAZQc-Q7XE" type="github"><diagram id="j5IfUhy7U0jLYugJBKRZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T07:56:50.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PxszNzpYUnFIvEaYctp7" version="20.2.7" type="github">
+  <diagram id="j5IfUhy7U0jLYugJBKRZ" name="Page-1">
+    <mxGraphModel dx="786" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sitT_WliWIex5_6N1mFP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="9" width="600" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-3" value="&lt;b&gt;FRONTEND&amp;nbsp; (PRESENTATION TIER)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="9" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="600" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-5" value="&lt;b&gt;BACKEND (LOGIC TIER)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="660" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-7" value="&lt;b&gt;DATA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="115" y="455" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-8" value="File System&lt;br&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_file_system;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-9" value="Database&lt;br&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="49.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-10" target="sitT_WliWIex5_6N1mFP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="580" />
+              <mxPoint x="170" y="580" />
+              <mxPoint x="170" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-10" value="Trained Models" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620.95" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-11" target="sitT_WliWIex5_6N1mFP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-11" value="Video Dataset" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;" vertex="1" parent="1">
+          <mxGeometry x="228" y="620.95" width="39.59" height="37.05" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-12" target="sitT_WliWIex5_6N1mFP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-12" value="Extracted FrameFeatures&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;" vertex="1" parent="1">
+          <mxGeometry x="350" y="621.9000000000001" width="39.59" height="37.05" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-13" value="Graph Dataset&lt;br&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Resource_Graph_Explorer.svg;" vertex="1" parent="1">
+          <mxGeometry x="401" y="508" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-17" value="Heuristic Analysis&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.59" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-18" value="GCN Classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-19" value="Feature Extraction Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-20" value="Pre-Processing Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-22" value="Pose Estimation Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-23" value="Critique Analyze Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-25" value="API Gateway&lt;br&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="59.59" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-19" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-20" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234.94875000000002" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="243.25732083762057" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-22" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="349.89750000000004" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-23" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.6412500000001" y="290" as="sourcePoint" />
+            <mxPoint x="399.5899999999999" y="259.8715458362052" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-32" value="Model Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-33" value="Model Evaluation Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569.5" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-33" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.9658333333334" y="330" as="sourcePoint" />
+            <mxPoint x="399.5899999999999" y="253.80346859292297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-32" target="sitT_WliWIex5_6N1mFP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211.63250000000005" y="330" as="sourcePoint" />
+            <mxPoint x="340" y="248.8382201849364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-37" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.684;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-5" target="sitT_WliWIex5_6N1mFP-17">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="155" y="230" as="sourcePoint" />
+            <mxPoint x="255" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-38" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="sitT_WliWIex5_6N1mFP-18">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="470" y="180" as="sourcePoint" />
+            <mxPoint x="217.59000000000003" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sitT_WliWIex5_6N1mFP-39" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.548;entryY=1.003;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="sitT_WliWIex5_6N1mFP-6" target="sitT_WliWIex5_6N1mFP-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="480" y="190" as="sourcePoint" />
+            <mxPoint x="480" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
